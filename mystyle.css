@@ -1,5 +1,5 @@
 * {
-  max-width: 800px;
+  max-width: 900px;
   margin: auto;
 }
 
@@ -120,12 +120,12 @@ hr.solid {
 hr.solid1 {
   border-top: 3px solid rgba(0, 0, 0, 0.367);
   width: 700px;
-  margin-left: -89px;
+  margin-left: -40px;
 }
 .column {
   float: left;
   width: 45%;
-  height: 190px;
+  height: 230px;
   background-color: rgba(219, 219, 219, 0.606);  
 }
 
