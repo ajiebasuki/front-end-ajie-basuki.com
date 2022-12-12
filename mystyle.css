@@ -26,7 +26,8 @@ div {
 
 #footer {
   height: 50px;
-  width: 100%;
+  width: 110%;
+  margin-left: -50px;
   background-color: #ffcccc;
   clear: both;
   position: relative;
@@ -112,7 +113,7 @@ a {
 }
 
 hr.solid {
-  border-top: 5px solid rgba(0, 0, 0, 0.585);
+  border-top: 5px solid rgb(129, 129, 129);
   width: 1000px;
   margin-left: -100px
 }
@@ -140,4 +141,11 @@ hr.solid1 {
   margin-left: 4%;
   font-size: 20px;
   font-weight: normal;
+}
+
+footer{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
