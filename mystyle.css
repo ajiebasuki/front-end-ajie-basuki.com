@@ -26,7 +26,7 @@ p {
 
 #header {
   height: 40px;
-  width: 11000px;
+  width: 100%;
   background-color: rgb(129, 129, 129);
   position: initial;
   z-index: 1;
